@@ -26,3 +26,28 @@ a{
     color:white;
     font-family: Architects Daughter;
     }
+    .mwj-sc{
+    height: 350px;
+    width: 470px;
+    position: absolute;
+
+    top: 30px;
+    right: 470px;
+    }
+    .chs-sc{
+        height: 350px;
+        width: 470px;
+        position: absolute;
+    
+        top: 390px;
+        right: 730px;
+        }
+    .gm-sc{
+         height: 350px;
+         width: 470px;
+         position: absolute;
+        
+         top: 390px;
+         right: 185px;
+         }
+
